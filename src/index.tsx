@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import ISWidget from "ils-js";
 import WidgetOptions from "./model/widgetOptions"
 
 ReactDOM.render(
@@ -12,20 +11,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-var options:WidgetOptions = {
-  token: "",
-  email: "",
-  customerId: "",
-  firstName: "",
-  lastName: "",
-  countryCode: "",
-  onClose: () => {},
-  onFailed: (error) => {},
-  onSuccessful: (loanId) => {}
-};
-
-ISWidget().buildWithOptions(options);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))

@@ -1,24 +1,30 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+// import ISWidget from "ils-js";
+import Header from "./components/Header/Header";
+import AppContent from './components/Content/AppContent'
+
+// var options:WidgetOptions = {
+//   token: "",
+//   email: "",
+//   customerId: "",
+//   firstName: "",
+//   lastName: "",
+//   countryCode: "",
+//   onClose: () => {},
+//   onFailed: (error) => {},
+//   onSuccessful: (loanId) => {}
+// };
 
 function App() {
+
+  function callISW() {
+    // ISWidget().buildWithOptions(options);
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          ILS Channel Partner
-        </a>
-      </header>
+      <Header callISW={callISW}/>
+      <AppContent />
     </div>
   );
 }
