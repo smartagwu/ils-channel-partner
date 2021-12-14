@@ -1,7 +1,6 @@
 {
     "name": "ils-channel-partner",
     "version": "0.1.0",
-    "private": true,
     "homepage": "http://smartagwu.github.io/ils-channel-partner",
     "dependencies": {
         "@smart_agwu/ils-js": "^1.0.0",
