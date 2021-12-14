@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ils-channel-partner/static/css/main.c9eed866.chunk.css",
+    "main.js": "/ils-channel-partner/static/js/main.1edc125b.chunk.js",
+    "main.js.map": "/ils-channel-partner/static/js/main.1edc125b.chunk.js.map",
+    "runtime-main.js": "/ils-channel-partner/static/js/runtime-main.ac3f0a56.js",
+    "runtime-main.js.map": "/ils-channel-partner/static/js/runtime-main.ac3f0a56.js.map",
+    "static/js/2.8005bc03.chunk.js": "/ils-channel-partner/static/js/2.8005bc03.chunk.js",
+    "static/js/2.8005bc03.chunk.js.map": "/ils-channel-partner/static/js/2.8005bc03.chunk.js.map",
+    "static/js/3.75650ad9.chunk.js": "/ils-channel-partner/static/js/3.75650ad9.chunk.js",
+    "static/js/3.75650ad9.chunk.js.map": "/ils-channel-partner/static/js/3.75650ad9.chunk.js.map",
+    "index.html": "/ils-channel-partner/index.html",
+    "static/css/main.c9eed866.chunk.css.map": "/ils-channel-partner/static/css/main.c9eed866.chunk.css.map",
+    "static/js/2.8005bc03.chunk.js.LICENSE.txt": "/ils-channel-partner/static/js/2.8005bc03.chunk.js.LICENSE.txt",
+    "static/media/FashBlogLogo.38ae4d8a.svg": "/ils-channel-partner/static/media/FashBlogLogo.38ae4d8a.svg",
+    "static/media/fashimg1.f5ff8efa.jpg": "/ils-channel-partner/static/media/fashimg1.f5ff8efa.jpg",
+    "static/media/fashimg2.948bf4ff.jpg": "/ils-channel-partner/static/media/fashimg2.948bf4ff.jpg",
+    "static/media/fashimg3.086b7663.png": "/ils-channel-partner/static/media/fashimg3.086b7663.png",
+    "static/media/fashimg4.9a3ab2df.png": "/ils-channel-partner/static/media/fashimg4.9a3ab2df.png",
+    "static/media/fashimg4.e41a57ea.jpg": "/ils-channel-partner/static/media/fashimg4.e41a57ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac3f0a56.js",
+    "static/js/2.8005bc03.chunk.js",
+    "static/css/main.c9eed866.chunk.css",
+    "static/js/main.1edc125b.chunk.js"
+  ]
+}
