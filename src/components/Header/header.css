@@ -36,6 +36,7 @@
     cursor: pointer;
     font-weight: 600;
     color: #ffffff;
+    width: fit-content;
     text-decoration: none;
 }
 
